@@ -1,0 +1,7 @@
+sympy
+numpy
+ppycodestyle
+pycodestyle_magic
+flake8
+matplotlib
+
